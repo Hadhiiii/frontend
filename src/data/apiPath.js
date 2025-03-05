@@ -1,0 +1,1 @@
+export const API_URL="https://backend-7iqg.onrender.com"
